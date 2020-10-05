@@ -16,3 +16,9 @@ public class roster{
         System.out.println("Hola, my name is " + student2.studentName + "and I am in grade level " + student2.studentGrade + " and I am " + student2.studentAge + " years old.");
     }
 }
+
+
+//$javac roster.java
+//$java -Xmx128M -Xms16M roster
+//Hello, my name is Sade Adu, and I am in grade level 3 and I am 8 years old.
+//Hola, my name is Avril Lavagne, and I am in grade level 10 and I am 16 years old.
