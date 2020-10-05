@@ -22,3 +22,9 @@ public class cookie {
     
     }
 }
+
+
+// $javac cookie.java
+// $java -Xmx128M -Xms16M cookie
+// I bought 2 pink, vanilla cookies with Butterfinger pieces.
+// I am eating 3 golden, chocolate chip cookies with Reeses pieces.
